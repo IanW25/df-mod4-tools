@@ -4,7 +4,7 @@ In this exercise, I imported a hash database of common files into Autopsy. This 
 ### Why This is Useful
 Hash databases let investigators filter out common files automatically, so they can focus on unique or suspicious ones. This saves time and avoids wasting effort on harmless files.
 ### Screenshot
-![Hash Set Screenshot](Images/Mod%204%20Excercise%201%20Screenshot.png")
+![Hash Set Screenshot](Mod 4 Excercise 1 Screenshot.png)
 
 ## Exercise 2: Creating a Hash Database of Evidence Files in Autopsy
 ### Description
@@ -13,5 +13,5 @@ In this exercise, I used Autopsy to create a hash database for suspicious files 
 Creating a hash database of evidence files helps investigators quickly spot the same files on other devices or cases. This makes it easier to connect investigations and work more efficiently.
 
 ### Screenshot
-![Screenshot of Autopsy Hash Database with Evidence Files](Images/Mod%204%20Excercise%202%20Screenshot.png")
+![Screenshot of Autopsy Hash Database with Evidence Files](Mod 4 Excercise 2 Screenshot.png)
 
