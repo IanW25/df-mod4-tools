@@ -1,18 +1,18 @@
 ## Exercise 1: Importing a Hash Database of Known Files in Autopsy
 ### Description
 In this exercise, I imported a hash database of common files into Autopsy. This database, from the National Software Reference Library , contains hashes of typical files. It helps investigators ignore standard files and focus on anything unusual or suspicious on a suspect’s device.
+
 ### Why This is Useful
 Hash databases let investigators filter out common files automatically, so they can focus on unique or suspicious ones. This saves time and avoids wasting effort on harmless files.
+
 ### Screenshot
-<<<<<<< HEAD
 ![Hash Set Screenshot](https://github.com/IanW25/df-mod4-tools/blob/main/Images/Mod%204%20Excercise%201%20Screenshot.png)
-=======
-![Hash Set Screenshot][(Images/Mod%204%20Excercise%201%20Screenshot.png"](https://github.com/IanW25/df-mod4-tools/blob/1dfcd761fb80be1763a3ef6a400972cfbc3f1ff3/Images/Mod%204%20Excercise%201%20Screenshot.png))
->>>>>>> 41fd1dad13b06858a0c3185746fc5d6c4d1ab5c0
+
 
 ## Exercise 2: Creating a Hash Database of Evidence Files in Autopsy
 ### Description
 In this exercise, I used Autopsy to create a hash database for suspicious files found in the evidence file. I tagged the "Special Project-A" images, generated their hashes, and saved them in a new database. This database helps quickly find the same files on other devices, making it easier to track evidence.
+
 ### Why This is Useful
 Creating a hash database of evidence files helps investigators quickly spot the same files on other devices or cases. This makes it easier to connect investigations and work more efficiently.
 
