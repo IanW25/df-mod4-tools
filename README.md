@@ -4,7 +4,7 @@ In this exercise, I imported a hash database of common files into Autopsy. This 
 ### Why This is Useful
 Hash databases let investigators filter out common files automatically, so they can focus on unique or suspicious ones. This saves time and avoids wasting effort on harmless files.
 ### Screenshot
-![Hash Set Screenshot](Images/Mod%204%20Excercise%201%20Screenshot.png")
+![Hash Set Screenshot][(Images/Mod%204%20Excercise%201%20Screenshot.png"](https://github.com/IanW25/df-mod4-tools/blob/1dfcd761fb80be1763a3ef6a400972cfbc3f1ff3/Images/Mod%204%20Excercise%201%20Screenshot.png))
 
 ## Exercise 2: Creating a Hash Database of Evidence Files in Autopsy
 ### Description
