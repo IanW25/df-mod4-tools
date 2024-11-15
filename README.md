@@ -30,3 +30,15 @@ When a file is deleted, only the link to it is removed, but the data often stays
 
 2. First Sector Hash:
    ![First Sector Hash Screenshot](C:\Users\IW1785336\OneDrive - Oracle Corporation\Desktop\df-mod4-tools\df-mod4-tools\Images\Mod 4 Excercise 3 Jeff Hash Screenshot.png)
+
+## Exercise 4: Simple Encryption Using CyberChef
+
+### Description
+In this exercise, I used CyberChef to encrypt and decrypt a message with Vigenère encryption. Encryption is a way to hide data, and investigators need to know how to spot and decode it to find important evidence.
+
+### Importance of Bit Manipulation in Digital Forensics
+Even simple encryption can hide important evidence. Knowing how to spot and decode it is key to finding hidden data and uncovering tampering. Tools like CyberChef help make analyzing encrypted content faster and easier.
+
+### Screenshot
+Here’s a screenshot of the encryption process in CyberChef:
+![CyberChef Encryption Screenshot](Mod 4 Excercise 4 Screenshot.png)
